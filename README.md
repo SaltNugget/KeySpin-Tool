@@ -1,4 +1,5 @@
 # CommandCenter 
+- working on a new update and patch and renaming it 
 
 This is a PythonScript I made while bored and I wanted to make a simple project it has a nice dark color scheme to it and has the following features
 
